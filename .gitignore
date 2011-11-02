@@ -4,4 +4,5 @@
 *.eep
 *.hex
 *.o
+*.lss
 dep/*
